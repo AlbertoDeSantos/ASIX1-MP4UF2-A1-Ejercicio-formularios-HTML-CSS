@@ -4,7 +4,7 @@
 
 En un nuevo repositorio llamado ex-form se ha de generar las siguientes tablas:
 
-![Texto alternativo](https://github.com/dannylarrea/table-form/blob/main/forms.png)
+![Texto alternativo](https://github.com/dannylarrea/formulario/blob/main/forms.png)
 
 Utilizar los siguientes estilos:
 
