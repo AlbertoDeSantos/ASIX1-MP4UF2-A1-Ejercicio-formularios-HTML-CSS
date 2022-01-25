@@ -6,7 +6,7 @@
 
 - https://www.w3schools.com/tags/tag_select.asp
 
-## En un nuevo repositorio llamado `ex-form` se han de generar (replicar) las siguientes tablas:
+#### En un nuevo repositorio llamado `ex-form` se han de generar (replicar) los siguientes formularios:
 
 ![Texto alternativo](https://github.com/dannylarrea/formulario/blob/main/forms.png)
 
@@ -59,8 +59,10 @@ Utilizar los siguientes estilos (agregarlos a una hoja de estilos css):
 
 Finalmente, utiliza GitHub Pages para publicar el repositorio. Investiga como se puede utilizar la plataforma https://www.netlify.com/ para mostrar en la web el desarrollo. Una vez investigado, utiliza **netlify** para desplegar el desarrollo.
 
-## En un nuevo repositorio llamado `ex-login` se ha de generar (replicar) la siguiente tabla:
+#### En un nuevo repositorio llamado `ex-login` se ha de generar (replicar) el siguiente formulario:
 
 ![Texto alternativo](https://github.com/dannylarrea/formulario/blob/main/ex-login.png)
 
 Los estilos del formularios son los mismos utilizados en el ejercicio anterior. Se ha de centrar el formulario, para ello se ha de utilizar la clase `flex` vista en clase.
+
+Utiliza **netlify** para desplegar el desarrollo.
