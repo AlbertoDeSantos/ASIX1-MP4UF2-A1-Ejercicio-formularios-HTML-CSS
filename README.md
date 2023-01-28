@@ -1,11 +1,3 @@
-**Enlaces de referencia:**
-
-- https://www.w3schools.com/html/html_forms.asp
-
-- https://www.w3schools.com/html/html_form_input_types.asp
-
-- https://www.w3schools.com/tags/tag_select.asp
-
 #### En un nuevo repositorio llamado `ASIX1-M4UF2-A1-forms` se han de generar (replicar) los siguientes formularios:
 
 ![Texto alternativo](https://github.com/AlbertoDeSantos/ASIX1-MP4UF2-A0.1-Ejercicio-formularios-HTML-CSS/blob/main/forms.png)
