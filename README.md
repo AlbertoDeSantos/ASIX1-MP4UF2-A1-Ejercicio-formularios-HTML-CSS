@@ -59,10 +59,11 @@ Utilizar los siguientes estilos (agregarlos a una hoja de estilos css):
 
 Finalmente, utiliza GitHub Pages para publicar el repositorio. Investiga como se puede utilizar la plataforma https://www.netlify.com/ para mostrar en la web el desarrollo. Una vez investigado, utiliza **netlify** para desplegar el desarrollo.
 
-#### En un nuevo repositorio llamado `ex-login` se ha de generar (replicar) el siguiente formulario:
+#### En un nuevo repositorio llamado `ASIX1-M4UF2-A1-login` se ha de generar (replicar) el siguiente formulario:
 
 ![Texto alternativo](https://github.com/AlbertoDeSantos/ASIX1-MP4UF2-A0.1-Ejercicio-formularios-HTML-CSS/blob/main/ex-login.png)
 
-Los estilos del formulario son los mismos utilizados en el ejercicio anterior. Se ha de centrar el formulario, para ello se ha de utilizar la clase `flex` vista en clase: https://drive.google.com/file/d/1WjFTJUQxLE4UZjj3nP__izwTN8Y2gAaR/view
+Los estilos del formulario son los mismos utilizados en el ejercicio anterior. Se ha de centrar el formulario, para ello se ha de utilizar la clase `flex` vista en clase: 
+Mini-video [absolute/Flex/Grid]: https://drive.google.com/file/d/1WjFTJUQxLE4UZjj3nP__izwTN8Y2gAaR/view
 
 Utiliza **netlify** para desplegar el desarrollo.
